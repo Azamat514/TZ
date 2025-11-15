@@ -1,3 +1,4 @@
+alert("Assalomu alaykum My Profile ga hush kelibsiz");
 const form = document.querySelector("form");
 const input = document.querySelector(".js-input");
 const result = document.querySelector(".js-result");
